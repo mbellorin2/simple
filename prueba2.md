@@ -6,5 +6,4 @@ Buena clase.
 
 Si estamos haciendo una actualización, ¿qué pasará?
 
-AAAAAAHHHHHH
-
+Este es el final.
