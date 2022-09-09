@@ -7,3 +7,5 @@ Buena clase.
 Si estamos haciendo una actualización, ¿qué pasará?
 
 Este es el final.
+
+Hola, de nuevo.
