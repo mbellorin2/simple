@@ -6,6 +6,6 @@ Buena clase.
 
 Si estamos haciendo una actualización, ¿qué pasará?
 
-Este es el final.
+Hecha una actualización inversa también. 
 
-Hola, de nuevo.
+Este es el final.
